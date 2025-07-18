@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.10.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.10.0.schema.json
+
+PackageIdentifier: Programix.Kalklator
+PackageVersion: "1.0"
+PackageLocale: pl-PL
+Publisher: Programix
+PackageName: Kalklator
+License: Proprietary
+ShortDescription: Kalklator™ – Kalkulator który zawsze podaje zły wynik
+ManifestType: defaultLocale
+ManifestVersion: 1.10.0

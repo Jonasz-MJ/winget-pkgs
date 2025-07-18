@@ -1,0 +1,12 @@
+# Created using wingetcreate 1.10.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.installer.1.10.0.schema.json
+
+PackageIdentifier: Programix.Kalklator
+PackageVersion: "1.0"
+InstallerType: inno
+Installers:
+- Architecture: x64
+  InstallerUrl: https://dane-kalklator.netlify.app/pobierz/Kalklator Setup.exe
+  InstallerSha256: 127DA3921BBB82DEE0904DDCD56C6DFD46FA8A88F41E1ADFC79BDBDD7C96A3F1
+ManifestType: installer
+ManifestVersion: 1.10.0
