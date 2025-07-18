@@ -1,0 +1,10 @@
+# Created using wingetcreate 1.10.2.0
+# yaml-language-server: $schema=https://aka.ms/winget-manifest.version.1.10.0.schema.json
+
+PackageIdentifier: Programix.Kalklator
+PackageVersion: "1.0"
+DefaultLocale: Programix.Kalklator.locale.pl-PL.yaml
+Installers:
+  - Programix.Kalklator.installer.yaml
+ManifestType: version
+ManifestVersion: 1.10.0
